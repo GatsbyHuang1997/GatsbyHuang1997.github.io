@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://maitianhat.github.io",
+  hostname: "https://gatsbyhuang1997.github.io",
 
   author: {
     name: "Gatsby Huang",
@@ -30,17 +30,17 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "STAY HUNGRY, STAY FOOLISH",
+    description: "stay hungry, stay foolish",
   },
 
   // 加密配置
   encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
+    // config: {
+    //   "/demo/encrypt.html": {
+    //     hint: "Password: 1234",
+    //     password: "1234",
+    //   },
+    // },
   },
 
   // 多语言配置
